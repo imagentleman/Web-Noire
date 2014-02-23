@@ -1,4 +1,4 @@
-#Web-Noire
+#Web Noire
 
 ![Web Noire Logo](http://imagentleman.github.io/webnoire-screenshot.png)
 
@@ -20,7 +20,7 @@ The extension detects (most) music or video files that you are currently playing
 
 ###Note
 
-The extension had to be taken down from the Chrome Webstore because due to its nature, it infringed one section of its policies. Specifically this rule: 
+The extension had to be taken down from the Chrome Webstore, because due to its nature, it infringed one section of its policies. Specifically this rule: 
 
 _We don't allow products or services that encourage, facilitate, or enable the unauthorized access, download, or streaming of copyrighted content or media_
 
