@@ -18,10 +18,11 @@ The extension detects (most) music or video files that you are currently playing
 4. Tick the `Developer Mode` checkbox to enable the manual installation of extension (from outside the webstore).
 5. Then click `Load Unpacked Extension...` and select the folder `Web Noire` (from step 1).
 
-###Note
+###Notes
 
 The extension had to be taken down from the Chrome Webstore, because due to its nature, it infringed one section of its policies. Specifically this rule: 
 
 _We don't allow products or services that encourage, facilitate, or enable the unauthorized access, download, or streaming of copyrighted content or media_
 
+Chrome Stable and Beta show a warning message on every startup, warning of using extensions on `Developer Mode`, if you aren't one. You can use [Chrome Dev](http://www.chromium.org/getting-involved/dev-channel) (the Chrome version for "Developers", that gets updated automatically about twice a week), or just disable `Developer Mode` when Chrome shows the message and re-enable it (and the extension) from [chrome://extensions/](chrome://extensions/) whenever you want to use it.
 
