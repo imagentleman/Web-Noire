@@ -17,7 +17,7 @@ Sometimes it doesn't work on embedded videos (on a blog post, etc), but it does 
 
 ###Installation
 
-1. Download the latest version from [here](https://github.com/imagentleman/Web-Noire/releases/download/28/web-noire.zip).
+1. Download the latest version from [here](https://github.com/imagentleman/Web-Noire/releases/download/latest/web-noire.zip).
 
 2. Extract the folder from the zip and place it in a permanent location on your hard drive (anywhere you'd like).
 3. Open Chrome and navigte to [chrome://extensions/](chrome://extensions/) or click on `Settings (icon with 3 horizontal lines) -> Tools -> Extensions.`.
