@@ -11,7 +11,7 @@ The extension detects (most) music or video files that you are currently playing
 
 ###Installation
 
-1. Download the latest version from [here](https://github.com/imagentleman/Web-Noire/releases/download/26/web-noire.zip).
+1. Download the latest version from [here](https://github.com/imagentleman/Web-Noire/releases/download/27/web-noire.zip).
 
 2. Extract the folder from the zip and place it in a permanent location on your hard drive (anywhere you'd like).
 3. Open Chrome and navigte to [chrome://extensions/](chrome://extensions/) or click on `Settings (icon with 3 horizontal lines) -> Tools -> Extensions.`.
